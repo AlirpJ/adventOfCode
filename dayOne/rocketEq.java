@@ -1,4 +1,5 @@
 package dayOne;
+// Work by Joshua Prila, done for Advent of Code 2019
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
